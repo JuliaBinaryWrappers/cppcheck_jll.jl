@@ -1,0 +1,280 @@
+[[cppcheck]]
+arch = "aarch64"
+git-tree-sha1 = "607dbf6a3483de905b3cb1b30cf85fe981378322"
+os = "macos"
+
+    [[cppcheck.download]]
+    sha256 = "221a65fecdb91740fad5a9f8cef58c93ef260146ee35f8ad229fc14842121684"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.aarch64-apple-darwin.tar.gz"
+[[cppcheck]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "174e2910e6090a1c516390e1c690200f4a88f2d2"
+libc = "glibc"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "73d95b05ca5274bc58639cae652c0095b568522d5bee29544bebb111efd5098d"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[cppcheck]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "10775ff8bec2d125db69855dbc9ea1d76412d90b"
+libc = "glibc"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "b31917029edd46b84a685cd2bdc523a9a597f6b73526950e924b363561a1486c"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[cppcheck]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b5ac66b01f77e3440fe38b75d42b616e31878e74"
+libc = "musl"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "387e8c4263c5be959add23d5a70f00a6ee848b7a69174a60df193b6c7c8a9e56"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.aarch64-linux-musl-cxx03.tar.gz"
+[[cppcheck]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "36624a1bf822f63d5490283589160a6aa61ff925"
+libc = "musl"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "d89dc050aca24e30659389abb43f68e94abac27d90096eaa44bc6f8752f3cfe3"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.aarch64-linux-musl-cxx11.tar.gz"
+[[cppcheck]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5d04c74a04ddca943bcc249adf95e0736d438da7"
+libc = "glibc"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "9b56715ec53a3ac0e0260f8cf866786bed4bf36249d9d574b7e2c70dcd045d98"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[cppcheck]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "51c9bb4cb6f2133c8940a550443e301b778fc1b8"
+libc = "glibc"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "e9dc02a648fa23f79a652966e079c62172d25982ca593585736eded2ff744f3a"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[cppcheck]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e3bd695bfc4182296d4b223add3b857929477791"
+libc = "musl"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "67ffe9657a896d907dc1720cca577f53e9e868153131fe43b8b7a8f9e62024c7"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[cppcheck]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e9afb06a5ce3ece7c9286f74a74bd05af748051d"
+libc = "musl"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "413a16d56326a71542e3bf44ac1babf72f2e8134a90325558cf5cd7fb0cc40e3"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[cppcheck]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "69bf4af7afef426d73c5160dc9a538a5eb1b50ab"
+libc = "glibc"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "f813180c5183d3bc2500f472f436e6b9a5b69090a5c2d27965c897249fcc2390"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[cppcheck]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0ce521844a81d21e81ee8e664dd054f149517a1b"
+libc = "glibc"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "5ca49079e47f4ed263e5be256ad8b169ddccc97601bf8d0a5668fa2150f9b612"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[cppcheck]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ecba7c993214cf46b4547e7d69f436e16e2071bf"
+libc = "musl"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "02a888a9dca76087c5719aeda43532c1875acaf8beaa868921f2e5ca229dbeb0"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[cppcheck]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "db0e9aebdcbee54e47fa5df14fc510a27f51c7dc"
+libc = "musl"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "76a1f133a2b49b3ad6123485e29c4c5591542db233695ff36c78136537616a0b"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[cppcheck]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "427683deddd018fa32c8c3b9cb7a0a777012bbf3"
+libc = "glibc"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "1c056d6a7da98f8cba8d8bcd6b13fa1b0a0c5b8ee4ddfddab4b2372f37a637c3"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.i686-linux-gnu-cxx03.tar.gz"
+[[cppcheck]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c5992205decde07f10c1ec69ae3b61dbc3e731d0"
+libc = "glibc"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "03ae111622dbf8f40a62ebccfaf77a37fe81a4f68c04f8a48bc4ddd79c2f40f5"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.i686-linux-gnu-cxx11.tar.gz"
+[[cppcheck]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8ff4aa0d0415bd4eb53f51b8162d93d5b1c21790"
+libc = "musl"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "0e330ed5218d8c2648045bea1d592b28914333c74a2295dab2e3faf085109a34"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.i686-linux-musl-cxx03.tar.gz"
+[[cppcheck]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f0a9c1373ae942fa17f085a395a83c92eb1b577f"
+libc = "musl"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "26071dc2af8594610f63431e5ed686c68e0aff334cdcc737e0ee123d1ba67b62"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.i686-linux-musl-cxx11.tar.gz"
+[[cppcheck]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5b7e31145a231529a10b8bd206e18a5f44fec4b0"
+os = "windows"
+
+    [[cppcheck.download]]
+    sha256 = "4de047903c6e5f76392b7a12453d5e467e20a0899a467a045b884c9d60cd502a"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.i686-w64-mingw32-cxx03.tar.gz"
+[[cppcheck]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d47f5f8457328ee98805b31d254a9165f0ec6df6"
+os = "windows"
+
+    [[cppcheck.download]]
+    sha256 = "9895174097e7f15e788b688aa360aec2afe6a64b5510ca994444d903edb238fd"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.i686-w64-mingw32-cxx11.tar.gz"
+[[cppcheck]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b68b20f596099e56818662ecdb284e22a6a71811"
+libc = "glibc"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "1fc04e0efc37ba191c5ada03ffa8bf8a5545d6e52a6194e777fc170f2043b4b3"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[cppcheck]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e371b979b2a5287a080f5412fb68968c0348102d"
+libc = "glibc"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "4bef949027648c79363ab87b74f91c85115082ea7d4e9ee4f6532f21d76bee91"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[cppcheck]]
+arch = "x86_64"
+git-tree-sha1 = "f888f32611e00deca49f40a0af080b0fb1c7abbc"
+os = "macos"
+
+    [[cppcheck.download]]
+    sha256 = "653fb131ca2eebfda96fd48e6a25b2b5ff3c6949bd5315845186e608a27cbce6"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.x86_64-apple-darwin.tar.gz"
+[[cppcheck]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "72b3bca33b8b2f3cfa7e23d0b6cc9a757ab52391"
+libc = "glibc"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "3c854dde9ed33aa5daad619440740a645a1920886d6828d70601f94c48abbc9f"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[cppcheck]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "66a4a770ceeb606f45a6ef8513e336ef83500a5e"
+libc = "glibc"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "bc96a99515d67b4bd3a15be31cf3d10f5ec85f8dca8777f711bbebf9c45e6af9"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[cppcheck]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d11e930633cd18b68858ca2167e303b119edea6a"
+libc = "musl"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "87e469304cb7b5020d18afe659103d0b2a611c82ca7f984cdfc73cd0037a4e6b"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.x86_64-linux-musl-cxx03.tar.gz"
+[[cppcheck]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0f352af2fc94dc762fe553cf86c9111f62e2ffca"
+libc = "musl"
+os = "linux"
+
+    [[cppcheck.download]]
+    sha256 = "615b40298aa0f83d198ff599913726f9cf110bebba8c4acdc09f9bfe01f94463"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.x86_64-linux-musl-cxx11.tar.gz"
+[[cppcheck]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1aba0563a07371befb79bc05ebab323bf4315a37"
+os = "windows"
+
+    [[cppcheck.download]]
+    sha256 = "c3b3dd35ae399badd1ef69ed42a4323e9b9236e6f88eeded2d7c7271937bdb6d"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[cppcheck]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c2dbb042e432e47a31c3784b236e7e0b1859a0c1"
+os = "windows"
+
+    [[cppcheck.download]]
+    sha256 = "65aae94db1cde33cf763833eda2993b86983cad8334965499065831c3dfa150b"
+    url = "https://github.com/JuliaBinaryWrappers/cppcheck_jll.jl/releases/download/cppcheck-v2.13.0+0/cppcheck.v2.13.0.x86_64-w64-mingw32-cxx11.tar.gz"

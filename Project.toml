@@ -1,0 +1,16 @@
+name = "cppcheck_jll"
+uuid = "74123790-a849-591a-9c73-46a70652358a"
+version = "2.13.0+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+PCRE_jll = "2f80f16e-611a-54ab-bc61-aa92de5b98fc"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+PCRE_jll = "8.44.0"
+Libdl = "1"
+Artifacts = "1"
